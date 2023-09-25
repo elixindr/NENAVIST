@@ -14,9 +14,12 @@
 
 Выделим текст, как код:
 
-''' mkdir myProject
-cd myProject
-touch business-logic.py
-git init
-'''
+*факэбл*
+**интрыстинг фэтнесс**
+
+---
+* Сыс
+* Пис
+* Рис
+
 Пример нескольких функций markdown
